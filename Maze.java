@@ -1,5 +1,5 @@
 //****************************************************************************************
-//Maze Class (Assignment 1)
+//Maze Class
 //Kelly Guo
 //Date: October 15, 2012
 //Java, Eclipse 3.4
